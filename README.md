@@ -78,10 +78,6 @@ ReactJS • Tailwind CSS • Redux-Toolkit • Hapi.js • Sequelize • MySQL �
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PassionateSumon\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionateSumon\&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=PassionateSumon)
 
 ---

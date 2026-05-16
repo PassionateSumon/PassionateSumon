@@ -105,8 +105,9 @@ ReactJS • Tailwind CSS • Redux-Toolkit • Hapi.js • Sequelize • MySQL �
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sumon-mitra-168891249)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=orange)]([YOUR_LEETCODE_URL](https://leetcode.com/u/i_am_sumon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumon-mitra-168891249)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/i_am_sumon/)
 
 ---
 

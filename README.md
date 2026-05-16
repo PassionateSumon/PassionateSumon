@@ -3,7 +3,9 @@
 ## 🚀 Full-Stack Developer | Backend-Focused Engineer
 
 Passionate about building scalable, secure, and production-ready web applications with clean architecture.
+
 💼 Currently working as a Junior Software Developer at CodelogicX Technologies Pvt Ltd.
+
 ---
 
 # 🌟 About Me
